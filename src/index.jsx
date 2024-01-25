@@ -12,7 +12,7 @@ const root = createRoot(container);
 
 const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/school-site",
         element: <App />,
         children: [
             {
